@@ -50,5 +50,5 @@ Pour commentcer :
 3. Une fois créée, vous devez vous positionner sur celle-ci (mémo : git checkout NOM_DE_VOTRE_BRANCHE).
 4. Si vous êtes plusieurs à travailler, créer à partir de votre branche défini précédement créer votre branche personnel.
 
-
+nb : la branche main sera géré par l'équipe qui gère l'interface qui synthétise tous les projets.
 
