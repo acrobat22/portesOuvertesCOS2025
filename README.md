@@ -12,39 +12,35 @@ Chaque équipe doit implémenter son projet dans un des sous-dossiers contenus d
 Cependant chaque sous-dossier doit contenir l'application compléte. 
 L'arborsence de votre application est libre, mais nous vous conseillons de rester dans l'esprit des structures vues en cours.
 
-'''
-projet1
-    assets
-        css
-            style.css
-        js
-            app.js
+- projet1
+    - assets
+        - css
+            - style.css
+        - js
+            - app.js
             ...
-    index.html
-    favicon.ico
-'''
+    - index.html
+    - favicon.ico
 
 Le dossier portesOuvertesCOS2025 contient également ces éléments :
 
-'''
-    assets
-        css
-        js
-    favicon.ico
-    index.html
-'''
+- assets
+    - css
+    - js
+- favicon.ico
+- index.html
+
 
 Ils serviront à gérer l'inteface qui permettra d'accéder à chacun des projets présents dans les sous-dossiers.
 **VOUS N'AVEZ PAS À Y TOUCHER**
 
 ## Méthodologie à suivre
 Vous constaterez que le projet contient 2 branches :
-    '''
-    main
-    dev
-    '''
+- main
+- dev
 
-Pour commentcer :
+
+Pour commencer :
 1. vous devrez vous positionner sur la branche **dev** (mémo : git checkout dev)
 2. et créer votre propre branche pour travailler (mémo : git branch NOM_DE_VOTRE_BRANCHE). 
 3. Une fois créée, vous devez vous positionner sur celle-ci (mémo : git checkout NOM_DE_VOTRE_BRANCHE).
