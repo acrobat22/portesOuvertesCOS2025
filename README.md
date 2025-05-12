@@ -44,7 +44,7 @@ Pour commencer :
 1. vous devrez vous positionner sur la branche **dev** (mémo : git checkout dev)
 2. et créer votre propre branche pour travailler (mémo : git branch NOM_DE_VOTRE_BRANCHE). 
 3. Une fois créée, vous devez vous positionner sur celle-ci (mémo : git checkout NOM_DE_VOTRE_BRANCHE).
-4. Si vous êtes plusieurs à travailler, créer à partir de votre branche défini précédement créer votre branche personnel.
+4. Si vous êtes plusieurs à travailler, créer à partir de votre branche défini précédement votre branche personnel.
 
 nb : la branche main sera géré par l'équipe qui gère l'interface qui synthétise tous les projets.
 
